@@ -1,0 +1,23 @@
+.container{
+    height: 1700px;
+    width: 1700px;
+    
+};
+#img{
+    height: 500px;
+    width : 500px;
+    overflow: hidden;
+    position : relative;
+};
+.btn{
+    font-size: 25px;
+    background-color: azure;
+};
+#btn1{
+    position: absolute;
+    left: 50px;
+};
+#btn2{
+    position: absolute;
+    right: 50px;
+}
